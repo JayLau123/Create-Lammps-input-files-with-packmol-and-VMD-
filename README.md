@@ -6,3 +6,5 @@ Use Packmol and VMD to create Lammps input files for 1000 water molecules and wr
 https://www.ks.uiuc.edu/Research/vmd/
 
 https://cces.unicamp.br/2018/12/08/packmol/
+
+https://m3g.github.io/packmol/
