@@ -12,3 +12,5 @@ https://cces.unicamp.br/2018/12/08/packmol/
 https://m3g.github.io/packmol/
 
 https://www.rcsb.org/
+
+LAMMPS Molecular Dynamics Simulator： https://www.lammps.org/index.html#gsc.tab=0
